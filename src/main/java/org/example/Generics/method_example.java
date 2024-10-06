@@ -8,7 +8,7 @@ public class method_example {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Integer[] array = {1,2,34,4,5};
         String[] StringArray = {"sumit", "sujal ", "anand"};
         method_example m = new method_example();
